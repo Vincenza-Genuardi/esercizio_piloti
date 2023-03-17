@@ -1,32 +1,32 @@
 [
     {
         "numero": 1,
-        "nome": "Verstappen"
+        "nome": "Verstappen",
         "macchina": "Red Bull"
     },
     {
         "numero": 11,
-        "nome": "Perez"
+        "nome": "Perez",
         "macchina": "Red Bull"
     },
     {
         "numero": 16,
-        "nome": "Leclerc"
+        "nome": "Leclerc",
         "macchina": "Ferrari"
     },
     {
         "numero": 55,
-        "nome": "Sainz"
+        "nome": "Sainz",
         "macchina": "Ferrari"
     },
     {
         "numero": 44,
-        "nome": "Hamilton"
+        "nome": "Hamilton",
         "macchina": "Mercedes"
     },
     {
         "numero": 63,
-        "nome": "Russel"
+        "nome": "Russel",
         "macchina": "Mercedes"
     }
 ]
